@@ -1,0 +1,18 @@
+[submodule "src/binutils-gdb"]
+	path = src/binutils-gdb
+	url = git://sourceware.org/git/binutils-gdb.git
+[submodule "src/gcc"]
+	path = src/gcc
+	url = https://github.com/gcc-mirror/gcc.git
+[submodule "src/git-hg"]
+	path = src/git-hg
+	url = https://github.com/vapier/git-hg.git
+[submodule "src/mpc"]
+	path = src/mpc
+	url = https://scm.gforge.inria.fr/anonscm/git/mpc/mpc.git
+[submodule "src/gmp"]
+	path = src/gmp
+	url = git@github.com:ryepdx/gmp.git
+[submodule "src/mpfr"]
+	path = src/mpfr
+	url = git@github.com:ryepdx/mpfr
